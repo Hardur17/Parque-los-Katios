@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Campaña para la Protección del Parque Nacional Natural Los Katíos</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f5e4;
+            color: #2b2b2b;
+        }
+        header {
+            background-color: #3a613b;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        section {
+            padding: 20px;
+            max-width: 800px;
+            margin: auto;
+        }
+        h2 {
+            color: #5e803b;
+        }
+        img {
+            width: 100%;
+            max-width: 800px;
+            height: auto;
+            margin: 10px 0;
+            border-radius: 8px;
+            border: 3px solid #5e803b;
+        }
+        ul {
+            list-style-type: disc;
+            padding-left: 20px;
+            color: #3a613b;
+        }
+        footer {
+            background-color: #3a613b;
+            color: #fff;
+            text-align: center;
+            padding: 15px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Campaña de Protección del Parque Nacional Natural Los Katíos</h1>
+    <p>Un patrimonio natural de Colombia que debemos preservar</p>
+</header>
+
+<section>
+    <h2>Descripción General</h2>
+    <p>Ubicado en el noroeste del país, en la frontera con Panamá, el Parque Nacional Natural Los Katíos tiene un área de 720 km² de los cuales el 65% está en el departamento del Chocó, mientras que el 35% restante está en Antioquia. Desde 1994 es catalogado por la UNESCO como Patrimonio de la Humanidad por su enorme biodiversidad e imponentes paisajes. Debido a las amenazas de actividades que puedan deforestar el parque natural, Naciones Unidas en 2009 lo incluyó en la lista de Patrimonio de la Humanidad en peligro.</p>
+    <p>Una de las principales atracciones del parque es la Serranía del Darién que se encuentra en el norte y el centro de su territorio. Esta formación montañosa le permite al parque natural contar con extraordinarios saltos o caídas de agua, cascadas y hermosos paisajes. Es contiguo al Parque Natural del Darién en Panamá.</p>
+
+    <img src="https://cdn.colombia.com/sdi/2014/03/13/parque-nacional-natural-de-los-katios-853908.webp" alt="Paisaje de Los Katíos">
+    <img src="https://www.parquesnacionales.gov.co/wp-content/uploads/2023/05/katios-1536x614.jpg" alt="Cascada en Los Katíos">
+
+    <h2>¿Cómo Contribuir y Proteger este Patrimonio?</h2>
+    <p>Podemos proteger el Parque Nacional Natural Los Katíos en nuestra vida cotidiana a través de las siguientes acciones:</p>
+    <ul>
+        <li>Promover el turismo responsable respetando la flora y fauna del lugar.</li>
+        <li>Evitar la compra de productos que puedan provenir de áreas deforestadas o afectadas en su ecosistema.</li>
+        <li>Participar en campañas de reforestación y conservación de parques nacionales.</li>
+        <li>Apoyar a organizaciones que luchan contra la deforestación y trabajan para la preservación de la biodiversidad.</li>
+    </ul>
+
+    <h2>El Papel de la Tecnología en su Preservación y Promoción</h2>
+    <p>La tecnología desempeña un rol fundamental en la protección y promoción del Parque Nacional Natural Los Katíos:</p>
+    <ul>
+        <li>Los sistemas de monitoreo satelital ayudan a detectar cambios en el ecosistema, permitiendo una respuesta rápida ante incendios o deforestación.</li>
+        <li>La promoción en redes sociales permite que más personas conozcan el parque y su importancia ecológica.</li>
+        <li>Las plataformas virtuales de turismo ecológico promueven visitas responsables y educan a los visitantes sobre la biodiversidad del parque.</li>
+        <li>Las aplicaciones de realidad aumentada permiten que las personas exploren digitalmente el parque, creando conciencia sin impactar físicamente el entorno.</li>
+    </ul>
+</section>
+
+<footer>
+    <p>Protección de Los Katíos - Colombia</p>
+</footer>
+
+</body>
+</html>
+
